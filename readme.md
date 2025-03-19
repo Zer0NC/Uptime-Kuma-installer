@@ -13,8 +13,8 @@ A **secure and automated installer** for Uptime Kuma with **Nginx reverse proxy,
 
 ### 1️⃣ Download & Prepare Script
 ```bash
-wget https://your-repo-url/install_uptime_kuma.sh
-chmod +x install_uptime_kuma.sh
+wget https://github.com/Zer0NC/Uptime-Kuma-installer/blob/main/installer.sh
+chmod +x installer.sh
 ```
 
 ### 2️⃣ Run Installer
